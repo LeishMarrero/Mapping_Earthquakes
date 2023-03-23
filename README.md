@@ -26,4 +26,4 @@ This map displays the major earthquakes in the satellite view map.
 ### Night Navigation Map
 This map displays all earthquakes, major earthquakes, and tectonic plates in the night navigation map.
 
-![night](Earthquake_Challenge/images/night.png)
+![nightall](Earthquake_Challenge/images/nightall.png)
